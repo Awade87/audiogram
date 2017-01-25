@@ -29,8 +29,9 @@
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
+    "captionLeft": 40,
+    "captionColor": "#000",
+    "backgroundImage": "capitol.jpg",
     "foregroundColor": "#ffc200",
     "waveBottom": 660,
     "waveTop": 320
