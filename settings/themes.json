@@ -8,76 +8,35 @@
     "pattern": "wave",
     "waveTop": 150,
     "waveBottom": 420,
+    "captionAlign": "left",
     "captionColor": "#FFF",
     "captionTop": 470,
-    "captionFont": "52px 'Open Sans'",
+    "captionFont": "bold 40px 'Open Sans'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
     "captionRight": 1080
   },
-  "Basic Dark Background": {
-    "backgroundColor": "#000",
-    "foregroundColor": "#ffc200"
-  },
-  "Basic Yellow Background": {
-    "backgroundColor": "#ffc200",
-    "foregroundColor": "#000",
-    "captionColor": "#000"
-  },
-  "Background image with top right text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 40,
-    "captionColor": "#000",
-    "backgroundImage": "capitol.jpg",
+  "Background Image": {
+    "captionTop": 45,
+    "captionRight": 1240,
+    "captionLeft": 60,
+    "backgroundImage": "capitol-angle.jpg",
     "foregroundColor": "#ffc200",
     "waveBottom": 660,
     "waveTop": 320
   },
   "Bars Dark Background": {
+    "captionLeft": 120,
     "pattern": "bars",
-    "backgroundColor": "#000",
+    "backgroundColor": "#222",
     "foregroundColor": "#ffc200"
   },
   "Bars Yellow Background": {
+    "captionLeft": 120,
     "pattern": "bars",
     "backgroundColor": "#ffc200",
     "foregroundColor": "#000",
     "captionColor": "#000"
-  },
-  "Line Dark Background": {
-    "backgroundColor": "#000",
-    "foregroundColor": "#ffc200",
-    "pattern": "line"
-  },
-  "Line Yellow Background": {
-    "backgroundColor": "#ffc200",
-    "foregroundColor": "#000",
-    "captionColor": "#000",
-    "pattern": "line"
-  },
-  "Bricks Dark Background": {
-    "backgroundColor": "#000",
-    "foregroundColor": "#ffc200",
-    "pattern": "bricks"
-  },
-  "Bricks Yellow Background": {
-    "backgroundColor": "#ffc200",
-    "foregroundColor": "#000",
-    "captionColor": "#000",
-    "pattern": "bricks"
-  },
-  "Pixelated Dark Background": {
-    "backgroundColor": "#000",
-    "foregroundColor": "#ffc200",
-    "pattern": "pixel"
-  },
-  "Pixelated Yellow Background": {
-    "backgroundColor": "#ffc200",
-    "foregroundColor": "#000",
-    "captionColor": "#000",
-    "pattern": "pixel"
   }
 }

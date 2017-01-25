@@ -23,7 +23,7 @@ module.exports = {
   storagePath: path.join(__dirname, "..", "media"),
   fonts: [
     { family: "Open Sans", file: path.join(__dirname, "fonts", "OpenSans-Regular.ttf") },
-    { family: "Open Sans", file: path.join(__dirname, "fonts", "OpenSans-Bold.ttf"), weight: "bold" },
+    { family: "Open Sans", file: path.join(__dirname, "fonts", "OpenSans-Semibold.ttf"), weight: "bold" },
     { family: "Open Sans", file: path.join(__dirname, "fonts", "OpenSans-Light.ttf"), weight: "light" },
     { family: "PT Serif", file: path.join(__dirname, "fonts", "PT_Serif-Web-Regular.ttf") },
     { family: "PT Serif", file: path.join(__dirname, "fonts", "PT_Serif-Web-Bold.ttf"), weight: "bold" }
