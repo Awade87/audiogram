@@ -2,6 +2,8 @@
 
 The Texas Tribune's fork of New York Public Radio's [excellent social-audio tool](https://github.com/nypublicradio/audiogram).
 
+Preferred [installation](https://github.com/texastribune/audiogram/blob/master/INSTALL.md#docker-installation) is with Docker.
+
 ## License
 
 Copyright (c) 2016 New York Public Radio
