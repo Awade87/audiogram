@@ -69,10 +69,15 @@ module.exports = function(theme) {
       y = top;
     }
 
-    // harris1
-    context.strokeStyle = '#222';
-    context.lineWidth = 4;
+    // harris1, yvette1
+    // context.strokeStyle = '#222';
+
+    // lena1
+    context.strokeStyle = '#FEFEFE';
+
+    // all
     context.fillStyle = theme.captionColor;
+    context.lineWidth = 4;
 
     lines.forEach(function(line, i){
       context.strokeText(line.join(" "), x, y + i * (theme.captionLineHeight + theme.captionLineSpacing));

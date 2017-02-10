@@ -68,5 +68,20 @@
     "foregroundColor": "#ffc200",
     "waveTop": 500,
     "waveBottom": 850
+  },
+  "Sold Out Lena 1": {
+    "width": 1200,
+    "height": 800,
+    "backgroundColor": "#FFF",
+    "backgroundImage": "lena1.jpg",
+    "captionColor": "#000",
+    "captionFont": "bold 60px 'Open Sans'",
+    "captionLineHeight": 65,
+    "captionTop": 45,
+    "captionRight": 650,
+    "captionLeft": 60,
+    "foregroundColor": "#ffc200",
+    "waveTop": 550,
+    "waveBottom": 850
   }
 }
