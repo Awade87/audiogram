@@ -53,5 +53,20 @@
     "foregroundColor": "#ffc200",
     "waveTop": 550,
     "waveBottom": 750
+  },
+  "Sold Out Yvette 1": {
+    "width": 1200,
+    "height": 800,
+    "backgroundColor": "#FFF",
+    "backgroundImage": "yvette1.jpg",
+    "captionColor": "#FFF",
+    "captionFont": "bold 52px 'Open Sans'",
+    "captionLineHeight": 60,
+    "captionTop": 45,
+    "captionRight": 1150,
+    "captionLeft": 700,
+    "foregroundColor": "#ffc200",
+    "waveTop": 500,
+    "waveBottom": 850
   }
 }
