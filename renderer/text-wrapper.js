@@ -69,11 +69,15 @@ module.exports = function(theme) {
       y = top;
     }
 
+    // harris1
+    context.strokeStyle = '#222';
+    context.lineWidth = 4;
     context.fillStyle = theme.captionColor;
+
     lines.forEach(function(line, i){
+      context.strokeText(line.join(" "), x, y + i * (theme.captionLineHeight + theme.captionLineSpacing));
       context.fillText(line.join(" "), x, y + i * (theme.captionLineHeight + theme.captionLineSpacing));
     });
-
  };
 
 

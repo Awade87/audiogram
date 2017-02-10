@@ -9,9 +9,9 @@
     "waveTop": 150,
     "waveBottom": 420,
     "captionAlign": "left",
+    "captionFont": "bold 40px 'Open Sans'",
     "captionColor": "#FFF",
     "captionTop": 470,
-    "captionFont": "bold 40px 'Open Sans'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
@@ -38,5 +38,20 @@
     "backgroundColor": "#ffc200",
     "foregroundColor": "#000",
     "captionColor": "#000"
+  },
+  "Sold Out Harris 1": {
+    "width": 1200,
+    "height": 800,
+    "backgroundColor": "#FFF",
+    "backgroundImage": "harris1.jpg",
+    "captionColor": "#FFF",
+    "captionFont": "bold 52px 'Open Sans'",
+    "captionLineHeight": 60,
+    "captionTop": 45,
+    "captionRight": 600,
+    "captionLeft": 60,
+    "foregroundColor": "#ffc200",
+    "waveTop": 550,
+    "waveBottom": 750
   }
 }
