@@ -69,11 +69,11 @@ module.exports = function(theme) {
       y = top;
     }
 
-    // harris1, yvette1
-    // context.strokeStyle = '#222';
+    // harris1, yvette1, jean1
+    context.strokeStyle = '#222';
 
     // lena1
-    context.strokeStyle = '#FEFEFE';
+    // context.strokeStyle = '#FEFEFE';
 
     // all
     context.fillStyle = theme.captionColor;

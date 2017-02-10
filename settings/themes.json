@@ -83,5 +83,21 @@
     "foregroundColor": "#ffc200",
     "waveTop": 550,
     "waveBottom": 850
+  },
+  "Sold Out Jean 1": {
+    "width": 1200,
+    "height": 800,
+    "backgroundColor": "#FFF",
+    "backgroundImage": "jean1.jpg",
+    "captionAlign": "right",
+    "captionColor": "#FFF",
+    "captionFont": "bold 60px 'Open Sans'",
+    "captionLineHeight": 60,
+    "captionTop": 75,
+    "captionRight": 1150,
+    "captionLeft": 700,
+    "foregroundColor": "#ffc200",
+    "waveTop": 550,
+    "waveBottom": 850
   }
 }
