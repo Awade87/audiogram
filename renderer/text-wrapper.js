@@ -69,7 +69,7 @@ module.exports = function(theme) {
       y = top;
     }
 
-    context.strokeStyle = '#FFF';
+    context.strokeStyle = '#000';
     context.lineWidth = 6;
     context.fillStyle = theme.captionColor;
 

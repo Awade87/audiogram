@@ -50,5 +50,17 @@
     "foregroundColor": "#ffc200",
     "captionColor": "#000",
     "waveTop": 20
+  },
+  "Reveal 2": {
+    "captionTop": 900,
+    "captionLeft": 140,
+    "captionRight": 2280,
+    "captionFont": "bold 80px 'Open Sans'",
+    "captionLineHeight": 120,
+    "pattern": "wave",
+    "backgroundImage": "reveal2.jpg",
+    "foregroundColor": "#ffc200",
+    "captionColor": "#FFF",
+    "waveTop": 20
   }
 }
