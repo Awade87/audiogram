@@ -1,7 +1,7 @@
 {
   "default": {
-    "width": 1280,
-    "height": 720,
+    "width": 2400,
+    "height": 1600,
     "framesPerSecond": 20,
     "maxDuration": 300,
     "samplesPerFrame": 128,
@@ -11,7 +11,7 @@
     "captionAlign": "left",
     "captionColor": "#FFF",
     "captionTop": 470,
-    "captionFont": "bold 40px 'Open Sans'",
+    "captionFont": "bold 52px 'Open Sans'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
@@ -38,5 +38,17 @@
     "backgroundColor": "#ffc200",
     "foregroundColor": "#000",
     "captionColor": "#000"
+  },
+  "Reveal 1": {
+    "captionTop": 900,
+    "captionLeft": 140,
+    "captionRight": 2280,
+    "captionFont": "bold 80px 'Open Sans'",
+    "captionLineHeight": 120,
+    "pattern": "wave",
+    "backgroundImage": "reveal1.jpg",
+    "foregroundColor": "#ffc200",
+    "captionColor": "#000",
+    "waveTop": 20
   }
 }

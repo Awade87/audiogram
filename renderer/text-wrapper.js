@@ -69,8 +69,12 @@ module.exports = function(theme) {
       y = top;
     }
 
+    context.strokeStyle = '#FFF';
+    context.lineWidth = 6;
     context.fillStyle = theme.captionColor;
+
     lines.forEach(function(line, i){
+      context.strokeText(line.join(" "), x, y + i * (theme.captionLineHeight + theme.captionLineSpacing));
       context.fillText(line.join(" "), x, y + i * (theme.captionLineHeight + theme.captionLineSpacing));
     });
 
